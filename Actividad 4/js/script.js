@@ -7,5 +7,6 @@ function operacion(){
     d = a - b;
     e = a * b;
     f = a / b;
-    alert("Los valores son: \n Suma: " + c + "\n Resta: " + d + ", \n Multiplicación: " + e + ", \n División: "+ f +",");
+    g = a % b;
+    alert("Los valores son: \n Suma: " + c + "\n Resta: " + d + ", \n Multiplicación: " + e + ", \n División: "+ f +", "\n Resto: " + g + "," );
 }
