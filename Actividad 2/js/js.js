@@ -1,12 +1,13 @@
 function saludar(){
     alert("HOLAAAAA");
-    emoji()
+    emoji();
 }
 
 function despedir(){
-    alert("adiossssssssss")
+    alert("adiossssssssss");
+    emoji(":)");
 }
 
 function emoji(){
-    alert(":)")
+    alert(":)");
 }
